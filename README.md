@@ -11,4 +11,10 @@ Pasos a seguir para crear un proyecto en ambiente DJango
 - Instalar El Framework DJango --> python -m pip install django
 - Create the Django project --> django-admin startproject P_ejemplo .
 - Realizar Migracion --> python manage.py migrate
-- Ejecutar Servidor DJango --> python manage.py runserver 
+- Ejecutar Servidor DJango --> python manage.py runserver
+
+
+
+
+
+Link https://code.visualstudio.com/docs/python/tutorial-django
